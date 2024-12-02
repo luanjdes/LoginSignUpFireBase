@@ -34,6 +34,15 @@
                 android:textStyle="bold"
                 android:textColor="@color/lavender"/>
 
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/signup_name"
+                android:background="@drawable/lavender_border"
+                android:padding="8dp"
+                android:hint="Name"
+                android:drawableLeft="@drawable/ic_baseline_person_24"
+
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>
