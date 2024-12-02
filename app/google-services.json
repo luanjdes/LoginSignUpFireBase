@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295185493305",
+    "project_id": "loginsignupfirebase-8f584",
+    "storage_bucket": "loginsignupfirebase-8f584.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295185493305:android:16098bebe7e835db234ce8",
+        "android_client_info": {
+          "package_name": "com.imageandaudio.loginsignupfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkfl0dhEXn8cUtuz3Q0b-XXrxXu4xqD2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
