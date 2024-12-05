@@ -48,7 +48,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:id="@+id/signup_username"
+                android:id="@+id/signup_email"
                 android:background="@drawable/lavender_border"
                 android:layout_marginTop="20dp"
                 android:hint="Email"
@@ -59,7 +59,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:id="@+id/signup_email"
+                android:id="@+id/signup_username"
                 android:background="@drawable/lavender_border"
                 android:layout_marginTop="20dp"
                 android:hint="Username"
@@ -93,6 +93,10 @@
                 android:id="@+id/loginRedirectText"
                 android:text="Already an user? Login"
                 android:layout_gravity="center"
+                android:padding="8dp"
+                android:layout_marginTop="10dp"
+                android:textSize="18sp"
+                android:textColor="@color/lavender"/>
 
         </LinearLayout>
 

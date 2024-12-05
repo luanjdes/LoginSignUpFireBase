@@ -1,6 +1,9 @@
 package com.imageandaudio.loginsignupfirebase;
 
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -9,6 +12,10 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class LoginActivity extends AppCompatActivity {
+
+    EditText loginUsername, loginPassword;
+    Button loginButton;
+    TextView signupRedirectText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
